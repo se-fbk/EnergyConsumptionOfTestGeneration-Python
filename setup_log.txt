@@ -1,0 +1,1055 @@
+===== Environment Setup Log =====
+
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [1/350] Processing project: ATtila_15
+[2025-04-14 13:35:52]     Skipping ATtila_15: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [2/350] Processing project: AlexBerUtils_21
+[2025-04-14 13:35:52]     Skipping AlexBerUtils_21: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [3/350] Processing project: BeneDict_42
+[2025-04-14 13:35:52]     Skipping BeneDict_42: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [4/350] Processing project: Breathe_46
+[2025-04-14 13:35:52]     Skipping Breathe_46: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [5/350] Processing project: Butter.MAS.PythonAPI_48
+[2025-04-14 13:35:52]     Skipping Butter.MAS.PythonAPI_48: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [6/350] Processing project: Buttonwood_49
+[2025-04-14 13:35:52]     Skipping Buttonwood_49: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [7/350] Processing project: FinanceScraper_107
+[2025-04-14 13:35:52]     Skipping FinanceScraper_107: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [8/350] Processing project: Flask-Multi-Redis_123
+[2025-04-14 13:35:52]     Skipping Flask-Multi-Redis_123: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [9/350] Processing project: HikLoad_158
+[2025-04-14 13:35:52]     Skipping HikLoad_158: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [10/350] Processing project: Neuraxle_229
+[2025-04-14 13:35:52]     Skipping Neuraxle_229: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [11/350] Processing project: ODSCharts_235
+[2025-04-14 13:35:52]     Skipping ODSCharts_235: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [12/350] Processing project: PropArgs_267
+[2025-04-14 13:35:52]     Skipping PropArgs_267: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [13/350] Processing project: PythonTwitchBotFramework_342
+[2025-04-14 13:35:52]     Skipping PythonTwitchBotFramework_342: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [14/350] Processing project: QExPy_345
+[2025-04-14 13:35:52]     Skipping QExPy_345: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [15/350] Processing project: RegonAPI_363
+[2025-04-14 13:35:52]     Skipping RegonAPI_363: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [16/350] Processing project: TRamWAy_423
+[2025-04-14 13:35:52]     Skipping TRamWAy_423: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [17/350] Processing project: Tale_428
+[2025-04-14 13:35:52]     Skipping Tale_428: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [18/350] Processing project: URLExtract_444
+[2025-04-14 13:35:52]     Skipping URLExtract_444: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [19/350] Processing project: WRFpy_455
+[2025-04-14 13:35:52]     Skipping WRFpy_455: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [20/350] Processing project: WikidataIntegrator_460
+[2025-04-14 13:35:52]     Skipping WikidataIntegrator_460: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [21/350] Processing project: WolkGatewayModule-SDK-Python_461
+[2025-04-14 13:35:52]     Skipping WolkGatewayModule-SDK-Python_461: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [22/350] Processing project: accessify_494
+[2025-04-14 13:35:52]     Skipping accessify_494: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [23/350] Processing project: addon-check_513
+[2025-04-14 13:35:52]     Skipping addon-check_513: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [24/350] Processing project: advisory-parser_519
+[2025-04-14 13:35:52]     Skipping advisory-parser_519: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [25/350] Processing project: aeneas_520
+[2025-04-14 13:35:52]     Skipping aeneas_520: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [26/350] Processing project: aiobfd_546
+[2025-04-14 13:35:52]     Skipping aiobfd_546: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [27/350] Processing project: algorithms_598
+[2025-04-14 13:35:52]     Skipping algorithms_598: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [28/350] Processing project: algorithms_599
+[2025-04-14 13:35:52]     Skipping algorithms_599: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [29/350] Processing project: algorithms_600
+[2025-04-14 13:35:52]     Skipping algorithms_600: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [30/350] Processing project: allantools_610
+[2025-04-14 13:35:52]     Skipping allantools_610: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [31/350] Processing project: alphanum-code_621
+[2025-04-14 13:35:52]     Skipping alphanum-code_621: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [32/350] Processing project: alteruphono_629
+[2025-04-14 13:35:52]     Skipping alteruphono_629: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [33/350] Processing project: anesthetic_652
+[2025-04-14 13:35:52]     Skipping anesthetic_652: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [34/350] Processing project: anitopy_657
+[2025-04-14 13:35:52]     Skipping anitopy_657: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [35/350] Processing project: api-python_687
+[2025-04-14 13:35:52]     Skipping api-python_687: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [36/350] Processing project: appconfigs_699
+[2025-04-14 13:35:52]     Skipping appconfigs_699: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [37/350] Processing project: aries-staticagent-python_734
+[2025-04-14 13:35:52]     Skipping aries-staticagent-python_734: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [38/350] Processing project: artext_744
+[2025-04-14 13:35:52]     Skipping artext_744: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [39/350] Processing project: async_blp_788
+[2025-04-14 13:35:52]     Skipping async_blp_788: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [40/350] Processing project: atlasclient_807
+[2025-04-14 13:35:52]     Skipping atlasclient_807: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [41/350] Processing project: aud_822
+[2025-04-14 13:35:52]     Skipping aud_822: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [42/350] Processing project: authnzerver_833
+[2025-04-14 13:35:52]     Skipping authnzerver_833: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [43/350] Processing project: autoclasswrapper_842
+[2025-04-14 13:35:52]     Skipping autoclasswrapper_842: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [44/350] Processing project: autodoc_846
+[2025-04-14 13:35:52]     Skipping autodoc_846: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [45/350] Processing project: baconator_917
+[2025-04-14 13:35:52]     Skipping baconator_917: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [46/350] Processing project: baroness_928
+[2025-04-14 13:35:52]     Skipping baroness_928: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [47/350] Processing project: barracks_929
+[2025-04-14 13:35:52]     Skipping barracks_929: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [48/350] Processing project: base10_930
+[2025-04-14 13:35:52]     Skipping base10_930: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [49/350] Processing project: blackmamba_1027
+[2025-04-14 13:35:52]     Skipping blackmamba_1027: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [50/350] Processing project: blmath_1037
+[2025-04-14 13:35:52]     Skipping blmath_1037: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [51/350] Processing project: bloomtime_1044
+[2025-04-14 13:35:52]     Skipping bloomtime_1044: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [52/350] Processing project: bloop_1045
+[2025-04-14 13:35:52]     Skipping bloop_1045: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [53/350] Processing project: bottle-neck.git_1090
+[2025-04-14 13:35:52]     Skipping bottle-neck.git_1090: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [54/350] Processing project: bruker2nifti_1122
+[2025-04-14 13:35:52]     Skipping bruker2nifti_1122: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [55/350] Processing project: btlewrap_1127
+[2025-04-14 13:35:52]     Skipping btlewrap_1127: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [56/350] Processing project: bytecode_tools_1150
+[2025-04-14 13:35:52]     Skipping bytecode_tools_1150: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [57/350] Processing project: cBinder_1156
+[2025-04-14 13:35:52]     Skipping cBinder_1156: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [58/350] Processing project: cabrillo_1158
+[2025-04-14 13:35:52]     Skipping cabrillo_1158: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [59/350] Processing project: cellpy_1242
+[2025-04-14 13:35:52]     Skipping cellpy_1242: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [60/350] Processing project: centreon-sdk-python_1247
+[2025-04-14 13:35:52]     Skipping centreon-sdk-python_1247: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [61/350] Processing project: chazutsu_1299
+[2025-04-14 13:35:52]     Skipping chazutsu_1299: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [62/350] Processing project: city-scrapers-core_1346
+[2025-04-14 13:35:52]     Skipping city-scrapers-core_1346: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [63/350] Processing project: cmpa_1409
+[2025-04-14 13:35:52]     Skipping cmpa_1409: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [64/350] Processing project: codemod_1429
+[2025-04-14 13:35:52]     Skipping codemod_1429: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [65/350] Processing project: compare-mt_1462
+[2025-04-14 13:35:52]     Skipping compare-mt_1462: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [66/350] Processing project: compyle_1469
+[2025-04-14 13:35:52]     Skipping compyle_1469: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [67/350] Processing project: confight_1491
+[2025-04-14 13:35:52]     Skipping confight_1491: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [68/350] Processing project: configparse_1493
+[2025-04-14 13:35:52]     Skipping configparse_1493: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [69/350] Processing project: configutil_1496
+[2025-04-14 13:35:52]     Skipping configutil_1496: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [70/350] Processing project: coo_1528
+[2025-04-14 13:35:52]     Skipping coo_1528: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [71/350] Processing project: cornice.ext.swagger_1545
+[2025-04-14 13:35:52]     Skipping cornice.ext.swagger_1545: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [72/350] Processing project: cprior_1563
+[2025-04-14 13:35:52]     Skipping cprior_1563: 'Requirements' is False in CSV.
+[2025-04-14 13:35:52] --------------------------------------------------------
+[2025-04-14 13:35:52] [73/350] Processing project: crom_1578
+[2025-04-14 13:35:52] [+] Setting up environment for: crom_1578
+[2025-04-14 13:35:53]     → Created virtual environment: OK
+[2025-04-14 13:35:53]     → Installing from ./Python_projects_flaky/crom_1578/requirements.txt
+[2025-04-14 13:35:57]     → Installed dependencies and Pynguin
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [74/350] Processing project: cs207-FinalProject_1600
+[2025-04-14 13:35:57]     Skipping cs207-FinalProject_1600: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [75/350] Processing project: cuckoopy_1637
+[2025-04-14 13:35:57]     Skipping cuckoopy_1637: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [76/350] Processing project: cursebox_1640
+[2025-04-14 13:35:57]     Skipping cursebox_1640: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [77/350] Processing project: darkchess_1678
+[2025-04-14 13:35:57]     Skipping darkchess_1678: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [78/350] Processing project: darr_1680
+[2025-04-14 13:35:57]     Skipping darr_1680: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [79/350] Processing project: dask-glm_1684
+[2025-04-14 13:35:57]     Skipping dask-glm_1684: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [80/350] Processing project: data-genie.git_1689
+[2025-04-14 13:35:57]     Skipping data-genie.git_1689: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [81/350] Processing project: dataIO-project_1695
+[2025-04-14 13:35:57]     Skipping dataIO-project_1695: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [82/350] Processing project: deconzpy_1759
+[2025-04-14 13:35:57]     Skipping deconzpy_1759: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [83/350] Processing project: decorpy_1762
+[2025-04-14 13:35:57]     Skipping decorpy_1762: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [84/350] Processing project: dectate_1764
+[2025-04-14 13:35:57]     Skipping dectate_1764: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [85/350] Processing project: deviceidentifier-py_1801
+[2025-04-14 13:35:57]     Skipping deviceidentifier-py_1801: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [86/350] Processing project: dftimewolf_1814
+[2025-04-14 13:35:57]     Skipping dftimewolf_1814: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [87/350] Processing project: django-plotly-dash_1906
+[2025-04-14 13:35:57]     Skipping django-plotly-dash_1906: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [88/350] Processing project: docci_1956
+[2025-04-14 13:35:57]     Skipping docci_1956: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [89/350] Processing project: dockerfile_bakery_1969
+[2025-04-14 13:35:57]     Skipping dockerfile_bakery_1969: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [90/350] Processing project: dockerpty_1970
+[2025-04-14 13:35:57]     Skipping dockerpty_1970: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [91/350] Processing project: domain-validation_1990
+[2025-04-14 13:35:57]     Skipping domain-validation_1990: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [92/350] Processing project: domain2idna_1991
+[2025-04-14 13:35:57]     Skipping domain2idna_1991: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [93/350] Processing project: draft_2025
+[2025-04-14 13:35:57]     Skipping draft_2025: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [94/350] Processing project: dremio_client_2033
+[2025-04-14 13:35:57]     Skipping dremio_client_2033: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [95/350] Processing project: easy_python_requirements_2100
+[2025-04-14 13:35:57]     Skipping easy_python_requirements_2100: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [96/350] Processing project: econ-ark_2122
+[2025-04-14 13:35:57]     Skipping econ-ark_2122: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [97/350] Processing project: edk2-pytool-library_2128
+[2025-04-14 13:35:57]     Skipping edk2-pytool-library_2128: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [98/350] Processing project: emu_2173
+[2025-04-14 13:35:57]     Skipping emu_2173: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [99/350] Processing project: envyaml_2209
+[2025-04-14 13:35:57]     Skipping envyaml_2209: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [100/350] Processing project: epochs_2214
+[2025-04-14 13:35:57]     Skipping epochs_2214: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [101/350] Processing project: epsagon-python_2216
+[2025-04-14 13:35:57]     Skipping epsagon-python_2216: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [102/350] Processing project: etlstat.git_2238
+[2025-04-14 13:35:57]     Skipping etlstat.git_2238: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [103/350] Processing project: expstock_2289
+[2025-04-14 13:35:57]     Skipping expstock_2289: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [104/350] Processing project: ext_pylib_2292
+[2025-04-14 13:35:57]     Skipping ext_pylib_2292: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [105/350] Processing project: feature_engine_2363
+[2025-04-14 13:35:57]     Skipping feature_engine_2363: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [106/350] Processing project: fhir_parse_qs_2377
+[2025-04-14 13:35:57]     Skipping fhir_parse_qs_2377: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [107/350] Processing project: fhir_parse_qs_2378
+[2025-04-14 13:35:57]     Skipping fhir_parse_qs_2378: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [108/350] Processing project: filtered-intervaltree_2401
+[2025-04-14 13:35:57]     Skipping filtered-intervaltree_2401: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [109/350] Processing project: firestore_2412
+[2025-04-14 13:35:57]     Skipping firestore_2412: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [110/350] Processing project: fish_base_2416
+[2025-04-14 13:35:57]     Skipping fish_base_2416: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [111/350] Processing project: flask-apify_2451
+[2025-04-14 13:35:57]     Skipping flask-apify_2451: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [112/350] Processing project: flask-ipban_2458
+[2025-04-14 13:35:57]     Skipping flask-ipban_2458: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [113/350] Processing project: flynt_2507
+[2025-04-14 13:35:57]     Skipping flynt_2507: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [114/350] Processing project: fmi_2509
+[2025-04-14 13:35:57]     Skipping fmi_2509: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [115/350] Processing project: fooof_2525
+[2025-04-14 13:35:57]     Skipping fooof_2525: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [116/350] Processing project: freegs_2554
+[2025-04-14 13:35:57]     Skipping freegs_2554: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [117/350] Processing project: freezegun_2560
+[2025-04-14 13:35:57]     Skipping freezegun_2560: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [118/350] Processing project: frmt.git_2564
+[2025-04-14 13:35:57]     Skipping frmt.git_2564: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [119/350] Processing project: gabbi_2607
+[2025-04-14 13:35:57]     Skipping gabbi_2607: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [120/350] Processing project: geogrids_2651
+[2025-04-14 13:35:57]     Skipping geogrids_2651: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [121/350] Processing project: geomstats_2657
+[2025-04-14 13:35:57]     Skipping geomstats_2657: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [122/350] Processing project: git-task_2702
+[2025-04-14 13:35:57]     Skipping git-task_2702: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [123/350] Processing project: gitlab-stats_2722
+[2025-04-14 13:35:57]     Skipping gitlab-stats_2722: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [124/350] Processing project: gpuview_2765
+[2025-04-14 13:35:57]     Skipping gpuview_2765: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [125/350] Processing project: grade_2768
+[2025-04-14 13:35:57]     Skipping grade_2768: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [126/350] Processing project: graphene-field-permission_2775
+[2025-04-14 13:35:57]     Skipping graphene-field-permission_2775: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [127/350] Processing project: gwopensci_2816
+[2025-04-14 13:35:57]     Skipping gwopensci_2816: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [128/350] Processing project: happybase-mock_2845
+[2025-04-14 13:35:57]     Skipping happybase-mock_2845: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [129/350] Processing project: hex2file_2889
+[2025-04-14 13:35:57]     Skipping hex2file_2889: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [130/350] Processing project: hybra-core_2989
+[2025-04-14 13:35:57]     Skipping hybra-core_2989: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [131/350] Processing project: identixone-python_3023
+[2025-04-14 13:35:57]     Skipping identixone-python_3023: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [132/350] Processing project: iexfinance_3031
+[2025-04-14 13:35:57]     Skipping iexfinance_3031: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [133/350] Processing project: importanize_3073
+[2025-04-14 13:35:57]     Skipping importanize_3073: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [134/350] Processing project: isbg_3165
+[2025-04-14 13:35:57]     Skipping isbg_3165: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [135/350] Processing project: itachip2ir_3187
+[2025-04-14 13:35:57]     Skipping itachip2ir_3187: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [136/350] Processing project: jackfruit_3203
+[2025-04-14 13:35:57]     Skipping jackfruit_3203: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [137/350] Processing project: jgutils_3219
+[2025-04-14 13:35:57]     Skipping jgutils_3219: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [138/350] Processing project: jinja2-github_3226
+[2025-04-14 13:35:57]     Skipping jinja2-github_3226: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [139/350] Processing project: json-schema-to-class_3263
+[2025-04-14 13:35:57]     Skipping json-schema-to-class_3263: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [140/350] Processing project: json-storage-manager_3264
+[2025-04-14 13:35:57]     Skipping json-storage-manager_3264: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [141/350] Processing project: jtos_3304
+[2025-04-14 13:35:57]     Skipping jtos_3304: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [142/350] Processing project: jupyter-sigplot_3319
+[2025-04-14 13:35:57]     Skipping jupyter-sigplot_3319: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [143/350] Processing project: kademlia_3334
+[2025-04-14 13:35:57]     Skipping kademlia_3334: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [144/350] Processing project: kafkian_3338
+[2025-04-14 13:35:57]     Skipping kafkian_3338: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [145/350] Processing project: kaldiio_3343
+[2025-04-14 13:35:57]     Skipping kaldiio_3343: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [146/350] Processing project: kb_python_3353
+[2025-04-14 13:35:57]     Skipping kb_python_3353: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [147/350] Processing project: keepassxc-pwned_3356
+[2025-04-14 13:35:57]     Skipping keepassxc-pwned_3356: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [148/350] Processing project: keras-bert_3359
+[2025-04-14 13:35:57]     Skipping keras-bert_3359: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [149/350] Processing project: kevinarpe-rambutan3_3372
+[2025-04-14 13:35:57]     Skipping kevinarpe-rambutan3_3372: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [150/350] Processing project: kevinarpe-rambutan3_3373
+[2025-04-14 13:35:57]     Skipping kevinarpe-rambutan3_3373: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [151/350] Processing project: kevinarpe-rambutan3_3374
+[2025-04-14 13:35:57]     Skipping kevinarpe-rambutan3_3374: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [152/350] Processing project: kindle-maker_3387
+[2025-04-14 13:35:57]     Skipping kindle-maker_3387: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [153/350] Processing project: kool_3411
+[2025-04-14 13:35:57]     Skipping kool_3411: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [154/350] Processing project: krllint_3417
+[2025-04-14 13:35:57]     Skipping krllint_3417: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [155/350] Processing project: kuber_3422
+[2025-04-14 13:35:57]     Skipping kuber_3422: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [156/350] Processing project: kuber_3423
+[2025-04-14 13:35:57]     Skipping kuber_3423: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [157/350] Processing project: kuber_3424
+[2025-04-14 13:35:57]     Skipping kuber_3424: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [158/350] Processing project: kuber_3425
+[2025-04-14 13:35:57]     Skipping kuber_3425: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [159/350] Processing project: layouts_3474
+[2025-04-14 13:35:57]     Skipping layouts_3474: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [160/350] Processing project: lazygrid_3481
+[2025-04-14 13:35:57]     Skipping lazygrid_3481: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [161/350] Processing project: leibniz_3509
+[2025-04-14 13:35:57]     Skipping leibniz_3509: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [162/350] Processing project: letra_3517
+[2025-04-14 13:35:57]     Skipping letra_3517: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [163/350] Processing project: li_3525
+[2025-04-14 13:35:57]     Skipping li_3525: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [164/350] Processing project: lib-cove_3527
+[2025-04-14 13:35:57]     Skipping lib-cove_3527: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [165/350] Processing project: limix-lmm_3562
+[2025-04-14 13:35:57]     Skipping limix-lmm_3562: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [166/350] Processing project: litedb_3587
+[2025-04-14 13:35:57]     Skipping litedb_3587: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [167/350] Processing project: lithoxyl_3589
+[2025-04-14 13:35:57]     Skipping lithoxyl_3589: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [168/350] Processing project: live-trace_3591
+[2025-04-14 13:35:57]     Skipping live-trace_3591: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [169/350] Processing project: ln2sql_3601
+[2025-04-14 13:35:57]     Skipping ln2sql_3601: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [170/350] Processing project: logging2_3624
+[2025-04-14 13:35:57]     Skipping logging2_3624: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [171/350] Processing project: logx_3636
+[2025-04-14 13:35:57]     Skipping logx_3636: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [172/350] Processing project: loslassa_3646
+[2025-04-14 13:35:57]     Skipping loslassa_3646: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [173/350] Processing project: mackinac_3677
+[2025-04-14 13:35:57]     Skipping mackinac_3677: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [174/350] Processing project: markdownreveal_3715
+[2025-04-14 13:35:57]     Skipping markdownreveal_3715: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [175/350] Processing project: marlin-bookmark_3729
+[2025-04-14 13:35:57]     Skipping marlin-bookmark_3729: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [176/350] Processing project: mcpartools_3757
+[2025-04-14 13:35:57]     Skipping mcpartools_3757: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [177/350] Processing project: memacs_3772
+[2025-04-14 13:35:57]     Skipping memacs_3772: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [178/350] Processing project: merakicommons_3781
+[2025-04-14 13:35:57]     Skipping merakicommons_3781: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [179/350] Processing project: mgun_3806
+[2025-04-14 13:35:57]     Skipping mgun_3806: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [180/350] Processing project: mmpy_bot_3858
+[2025-04-14 13:35:57]     Skipping mmpy_bot_3858: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [181/350] Processing project: mmsim_3859
+[2025-04-14 13:35:57]     Skipping mmsim_3859: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [182/350] Processing project: msteams_3950
+[2025-04-14 13:35:57]     Skipping msteams_3950: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [183/350] Processing project: music-dl_3973
+[2025-04-14 13:35:57]     Skipping music-dl_3973: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [184/350] Processing project: musicbox_3976
+[2025-04-14 13:35:57]     Skipping musicbox_3976: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [185/350] Processing project: mutmut_3981
+[2025-04-14 13:35:57]     Skipping mutmut_3981: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [186/350] Processing project: nala_4005
+[2025-04-14 13:35:57]     Skipping nala_4005: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [187/350] Processing project: neopysqlite_4056
+[2025-04-14 13:35:57]     Skipping neopysqlite_4056: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [188/350] Processing project: netutils-linux_4080
+[2025-04-14 13:35:57]     Skipping netutils-linux_4080: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [189/350] Processing project: neurodsp_4082
+[2025-04-14 13:35:57]     Skipping neurodsp_4082: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [190/350] Processing project: nhl_4095
+[2025-04-14 13:35:57]     Skipping nhl_4095: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [191/350] Processing project: nilabels_4107
+[2025-04-14 13:35:57]     Skipping nilabels_4107: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [192/350] Processing project: nmrstarlib_4119
+[2025-04-14 13:35:57]     Skipping nmrstarlib_4119: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [193/350] Processing project: nodal_4125
+[2025-04-14 13:35:57]     Skipping nodal_4125: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [194/350] Processing project: noipy_4127
+[2025-04-14 13:35:57]     Skipping noipy_4127: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [195/350] Processing project: ns1-python_4149
+[2025-04-14 13:35:57]     Skipping ns1-python_4149: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [196/350] Processing project: nwb-docutils_4171
+[2025-04-14 13:35:57]     Skipping nwb-docutils_4171: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [197/350] Processing project: oct_4203
+[2025-04-14 13:35:57]     Skipping oct_4203: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [198/350] Processing project: odoo-env_4212
+[2025-04-14 13:35:57]     Skipping odoo-env_4212: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [199/350] Processing project: odoo-module-migrator_4213
+[2025-04-14 13:35:57]     Skipping odoo-module-migrator_4213: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [200/350] Processing project: olutils_4224
+[2025-04-14 13:35:57]     Skipping olutils_4224: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [201/350] Processing project: orator-annotate_4273
+[2025-04-14 13:35:57]     Skipping orator-annotate_4273: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [202/350] Processing project: osc-tiny_4282
+[2025-04-14 13:35:57]     Skipping osc-tiny_4282: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [203/350] Processing project: osmnx_4288
+[2025-04-14 13:35:57]     Skipping osmnx_4288: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [204/350] Processing project: overpass-api-python-wrapper_4301
+[2025-04-14 13:35:57]     Skipping overpass-api-python-wrapper_4301: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [205/350] Processing project: override_4302
+[2025-04-14 13:35:57]     Skipping override_4302: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [206/350] Processing project: packeteer_4317
+[2025-04-14 13:35:57]     Skipping packeteer_4317: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [207/350] Processing project: palmetto-py_4332
+[2025-04-14 13:35:57]     Skipping palmetto-py_4332: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [208/350] Processing project: panamah-sdk-python_4335
+[2025-04-14 13:35:57]     Skipping panamah-sdk-python_4335: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [209/350] Processing project: pandas-datareader_4339
+[2025-04-14 13:35:57]     Skipping pandas-datareader_4339: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [210/350] Processing project: parse_it_4372
+[2025-04-14 13:35:57]     Skipping parse_it_4372: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [211/350] Processing project: parseyml_4377
+[2025-04-14 13:35:57]     Skipping parseyml_4377: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [212/350] Processing project: pbpstats_4399
+[2025-04-14 13:35:57]     Skipping pbpstats_4399: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [213/350] Processing project: pdfebc-core_4410
+[2025-04-14 13:35:57]     Skipping pdfebc-core_4410: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [214/350] Processing project: peeweext_4421
+[2025-04-14 13:35:57]     Skipping peeweext_4421: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [215/350] Processing project: persistentdatatools_4444
+[2025-04-14 13:35:57]     Skipping persistentdatatools_4444: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [216/350] Processing project: phonon-enumeration_4461
+[2025-04-14 13:35:57]     Skipping phonon-enumeration_4461: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [217/350] Processing project: pint_4499
+[2025-04-14 13:35:57]     Skipping pint_4499: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [218/350] Processing project: plcx_4541
+[2025-04-14 13:35:57]     Skipping plcx_4541: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [219/350] Processing project: poker_4563
+[2025-04-14 13:35:57]     Skipping poker_4563: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [220/350] Processing project: poly_decomp_4576
+[2025-04-14 13:35:57]     Skipping poly_decomp_4576: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [221/350] Processing project: pooch_4582
+[2025-04-14 13:35:57]     Skipping pooch_4582: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [222/350] Processing project: praxxis_4615
+[2025-04-14 13:35:57]     Skipping praxxis_4615: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [223/350] Processing project: prettyconf_4632
+[2025-04-14 13:35:57]     Skipping prettyconf_4632: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [224/350] Processing project: proxy-db_4668
+[2025-04-14 13:35:57]     Skipping proxy-db_4668: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [225/350] Processing project: proxy_factory_4670
+[2025-04-14 13:35:57]     Skipping proxy_factory_4670: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [226/350] Processing project: proxytest_4671
+[2025-04-14 13:35:57]     Skipping proxytest_4671: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [227/350] Processing project: psi-collect_4681
+[2025-04-14 13:35:57]     Skipping psi-collect_4681: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [228/350] Processing project: psnprices_4683
+[2025-04-14 13:35:57]     Skipping psnprices_4683: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [229/350] Processing project: psrqpy_4687
+[2025-04-14 13:35:57]     Skipping psrqpy_4687: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [230/350] Processing project: psv_4688
+[2025-04-14 13:35:57]     Skipping psv_4688: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [231/350] Processing project: pubtools-pulp_4700
+[2025-04-14 13:35:57]     Skipping pubtools-pulp_4700: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [232/350] Processing project: py-KISSmetrics_4730
+[2025-04-14 13:35:57]     Skipping py-KISSmetrics_4730: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [233/350] Processing project: py-finstmt_4751
+[2025-04-14 13:35:57]     Skipping py-finstmt_4751: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [234/350] Processing project: py-idstools_4760
+[2025-04-14 13:35:57]     Skipping py-idstools_4760: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [235/350] Processing project: py-vkontakte_4809
+[2025-04-14 13:35:57]     Skipping py-vkontakte_4809: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [236/350] Processing project: py2pack_4816
+[2025-04-14 13:35:57]     Skipping py2pack_4816: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [237/350] Processing project: pyPhenology_4854
+[2025-04-14 13:35:57]     Skipping pyPhenology_4854: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [238/350] Processing project: pyalcs_4886
+[2025-04-14 13:35:57]     Skipping pyalcs_4886: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [239/350] Processing project: pyani_4891
+[2025-04-14 13:35:57]     Skipping pyani_4891: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [240/350] Processing project: pyatlasclient_4897
+[2025-04-14 13:35:57]     Skipping pyatlasclient_4897: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [241/350] Processing project: pyautoupdate_4899
+[2025-04-14 13:35:57]     Skipping pyautoupdate_4899: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [242/350] Processing project: pybrake_4914
+[2025-04-14 13:35:57]     Skipping pybrake_4914: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [243/350] Processing project: pyburstlib_4925
+[2025-04-14 13:35:57]     Skipping pyburstlib_4925: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [244/350] Processing project: pydeploy_5006
+[2025-04-14 13:35:57]     Skipping pydeploy_5006: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [245/350] Processing project: pydng_5016
+[2025-04-14 13:35:57]     Skipping pydng_5016: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [246/350] Processing project: pyecore_5027
+[2025-04-14 13:35:57]     Skipping pyecore_5027: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [247/350] Processing project: pyflat_5056
+[2025-04-14 13:35:57]     Skipping pyflat_5056: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [248/350] Processing project: pylib_5130
+[2025-04-14 13:35:57]     Skipping pylib_5130: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [249/350] Processing project: pymq_5176
+[2025-04-14 13:35:57]     Skipping pymq_5176: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [250/350] Processing project: pynetlinux_5186
+[2025-04-14 13:35:57]     Skipping pynetlinux_5186: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [251/350] Processing project: pyogt_5201
+[2025-04-14 13:35:57]     Skipping pyogt_5201: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [252/350] Processing project: pyosf_5209
+[2025-04-14 13:35:57]     Skipping pyosf_5209: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [253/350] Processing project: pyparam_5218
+[2025-04-14 13:35:57]     Skipping pyparam_5218: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [254/350] Processing project: pyrgg_5268
+[2025-04-14 13:35:57]     Skipping pyrgg_5268: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [255/350] Processing project: pyserverpilot_5287
+[2025-04-14 13:35:57]     Skipping pyserverpilot_5287: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [256/350] Processing project: pystrat2048_5314
+[2025-04-14 13:35:57]     Skipping pystrat2048_5314: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [257/350] Processing project: pytenable_5330
+[2025-04-14 13:35:57]     Skipping pytenable_5330: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [258/350] Processing project: pytest-antilru_5334
+[2025-04-14 13:35:57]     Skipping pytest-antilru_5334: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [259/350] Processing project: pytest-django_5370
+[2025-04-14 13:35:57]     Skipping pytest-django_5370: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [260/350] Processing project: pytest-eucalyptus_5388
+[2025-04-14 13:35:57]     Skipping pytest-eucalyptus_5388: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [261/350] Processing project: pytest-random-order_5455
+[2025-04-14 13:35:57]     Skipping pytest-random-order_5455: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [262/350] Processing project: python-artron.git_5513
+[2025-04-14 13:35:57]     Skipping python-artron.git_5513: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [263/350] Processing project: python-bitcoin-utils_5521
+[2025-04-14 13:35:57]     Skipping python-bitcoin-utils_5521: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [264/350] Processing project: python-clickclick_5536
+[2025-04-14 13:35:57]     Skipping python-clickclick_5536: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [265/350] Processing project: python-codeforces_5542
+[2025-04-14 13:35:57]     Skipping python-codeforces_5542: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [266/350] Processing project: python-draytonwiser-api_5570
+[2025-04-14 13:35:57]     Skipping python-draytonwiser-api_5570: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [267/350] Processing project: python-matlab-functions_5647
+[2025-04-14 13:35:57]     Skipping python-matlab-functions_5647: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [268/350] Processing project: python-nozomi_5665
+[2025-04-14 13:35:57]     Skipping python-nozomi_5665: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [269/350] Processing project: python-opendaq_5670
+[2025-04-14 13:35:57]     Skipping python-opendaq_5670: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [270/350] Processing project: python-resource-container_5708
+[2025-04-14 13:35:57]     Skipping python-resource-container_5708: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [271/350] Processing project: python-sdk_5722
+[2025-04-14 13:35:57]     Skipping python-sdk_5722: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [272/350] Processing project: python-task-queue_5752
+[2025-04-14 13:35:57]     Skipping python-task-queue_5752: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [273/350] Processing project: python-telegram-handler_5754
+[2025-04-14 13:35:57]     Skipping python-telegram-handler_5754: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [274/350] Processing project: python-ubersmith_5776
+[2025-04-14 13:35:57]     Skipping python-ubersmith_5776: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [275/350] Processing project: python-varname_5779
+[2025-04-14 13:35:57]     Skipping python-varname_5779: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [276/350] Processing project: python-xrpc_5792
+[2025-04-14 13:35:57]     Skipping python-xrpc_5792: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [277/350] Processing project: python2latex_5798
+[2025-04-14 13:35:57]     Skipping python2latex_5798: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [278/350] Processing project: pytradfri_5833
+[2025-04-14 13:35:57]     Skipping pytradfri_5833: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [279/350] Processing project: pyusuggest_5844
+[2025-04-14 13:35:57]     Skipping pyusuggest_5844: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [280/350] Processing project: pywsl_5865
+[2025-04-14 13:35:57]     Skipping pywsl_5865: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [281/350] Processing project: qmap_5892
+[2025-04-14 13:35:57]     Skipping qmap_5892: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [282/350] Processing project: recipe-scrapers_5979
+[2025-04-14 13:35:57]     Skipping recipe-scrapers_5979: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [283/350] Processing project: redisqueue_5987
+[2025-04-14 13:35:57]     Skipping redisqueue_5987: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [284/350] Processing project: redscope_5992
+[2025-04-14 13:35:57]     Skipping redscope_5992: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [285/350] Processing project: retriever_6059
+[2025-04-14 13:35:57]     Skipping retriever_6059: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [286/350] Processing project: ruTS_6142
+[2025-04-14 13:35:57]     Skipping ruTS_6142: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [287/350] Processing project: sacc_6167
+[2025-04-14 13:35:57]     Skipping sacc_6167: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [288/350] Processing project: saga_6172
+[2025-04-14 13:35:57]     Skipping saga_6172: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [289/350] Processing project: sat-search_6195
+[2025-04-14 13:35:57]     Skipping sat-search_6195: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [290/350] Processing project: schematics_6216
+[2025-04-14 13:35:57]     Skipping schematics_6216: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [291/350] Processing project: schematics_to_swagger_6217
+[2025-04-14 13:35:57]     Skipping schematics_to_swagger_6217: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [292/350] Processing project: scikit-build_6225
+[2025-04-14 13:35:57]     Skipping scikit-build_6225: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [293/350] Processing project: scrapbook_6241
+[2025-04-14 13:35:57]     Skipping scrapbook_6241: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [294/350] Processing project: scrapyrt_6252
+[2025-04-14 13:35:57]     Skipping scrapyrt_6252: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [295/350] Processing project: securenative-python_6274
+[2025-04-14 13:35:57]     Skipping securenative-python_6274: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [296/350] Processing project: sedparse_6277
+[2025-04-14 13:35:57]     Skipping sedparse_6277: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [297/350] Processing project: serpextract_6314
+[2025-04-14 13:35:57]     Skipping serpextract_6314: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [298/350] Processing project: service-manager_6320
+[2025-04-14 13:35:57]     Skipping service-manager_6320: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [299/350] Processing project: setigen_6323
+[2025-04-14 13:35:57]     Skipping setigen_6323: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [300/350] Processing project: seval_6337
+[2025-04-14 13:35:57]     Skipping seval_6337: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [301/350] Processing project: sevenbridges-python_6338
+[2025-04-14 13:35:57]     Skipping sevenbridges-python_6338: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [302/350] Processing project: shadow_6345
+[2025-04-14 13:35:57]     Skipping shadow_6345: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [303/350] Processing project: shiftpy_6362
+[2025-04-14 13:35:57]     Skipping shiftpy_6362: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [304/350] Processing project: shrun_6373
+[2025-04-14 13:35:57]     Skipping shrun_6373: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [305/350] Processing project: simanneal_6396
+[2025-04-14 13:35:57]     Skipping simanneal_6396: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [306/350] Processing project: skillful_6445
+[2025-04-14 13:35:57]     Skipping skillful_6445: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [307/350] Processing project: sleeper-api-wrapper_6467
+[2025-04-14 13:35:57]     Skipping sleeper-api-wrapper_6467: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [308/350] Processing project: slowjam_6476
+[2025-04-14 13:35:57]     Skipping slowjam_6476: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [309/350] Processing project: snippy_6500
+[2025-04-14 13:35:57]     Skipping snippy_6500: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [310/350] Processing project: spintest_6565
+[2025-04-14 13:35:57]     Skipping spintest_6565: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [311/350] Processing project: stackify-api-python_6628
+[2025-04-14 13:35:57]     Skipping stackify-api-python_6628: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [312/350] Processing project: strato-skipper_6674
+[2025-04-14 13:35:57]     Skipping strato-skipper_6674: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [313/350] Processing project: sundry_6723
+[2025-04-14 13:35:57]     Skipping sundry_6723: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [314/350] Processing project: supertunnel_6727
+[2025-04-14 13:35:57]     Skipping supertunnel_6727: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [315/350] Processing project: suricata-update_6733
+[2025-04-14 13:35:57]     Skipping suricata-update_6733: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [316/350] Processing project: svp_6743
+[2025-04-14 13:35:57]     Skipping svp_6743: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [317/350] Processing project: swytcher_6757
+[2025-04-14 13:35:57]     Skipping swytcher_6757: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [318/350] Processing project: symspellpy_6762
+[2025-04-14 13:35:57]     Skipping symspellpy_6762: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [319/350] Processing project: tempenviron_6836
+[2025-04-14 13:35:57]     Skipping tempenviron_6836: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [320/350] Processing project: terrascan_6863
+[2025-04-14 13:35:57]     Skipping terrascan_6863: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [321/350] Processing project: test_lab_6872
+[2025-04-14 13:35:57]     Skipping test_lab_6872: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [322/350] Processing project: testcube-client_6877
+[2025-04-14 13:35:57]     Skipping testcube-client_6877: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [323/350] Processing project: tmsyscall_6977
+[2025-04-14 13:35:57]     Skipping tmsyscall_6977: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [324/350] Processing project: token-bucket_6984
+[2025-04-14 13:35:57]     Skipping token-bucket_6984: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [325/350] Processing project: toolkit_6995
+[2025-04-14 13:35:57]     Skipping toolkit_6995: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [326/350] Processing project: toy-auto-diff_7028
+[2025-04-14 13:35:57]     Skipping toy-auto-diff_7028: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [327/350] Processing project: transitions_7042
+[2025-04-14 13:35:57]     Skipping transitions_7042: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [328/350] Processing project: trashtalk_7050
+[2025-04-14 13:35:57]     Skipping trashtalk_7050: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [329/350] Processing project: travispy_7057
+[2025-04-14 13:35:57]     Skipping travispy_7057: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [330/350] Processing project: tunacell_7095
+[2025-04-14 13:35:57]     Skipping tunacell_7095: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [331/350] Processing project: uhashring_7148
+[2025-04-14 13:35:57]     Skipping uhashring_7148: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [332/350] Processing project: usolitaire_7216
+[2025-04-14 13:35:57]     Skipping usolitaire_7216: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [333/350] Processing project: util_7219
+[2025-04-14 13:35:57]     Skipping util_7219: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [334/350] Processing project: utilpy_7220
+[2025-04-14 13:35:57]     Skipping utilpy_7220: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [335/350] Processing project: utter-more_7227
+[2025-04-14 13:35:57]     Skipping utter-more_7227: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [336/350] Processing project: vault-dev_7250
+[2025-04-14 13:35:57]     Skipping vault-dev_7250: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [337/350] Processing project: vdu-nlp-services_7258
+[2025-04-14 13:35:57]     Skipping vdu-nlp-services_7258: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [338/350] Processing project: viper_7293
+[2025-04-14 13:35:57]     Skipping viper_7293: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [339/350] Processing project: waddle_7329
+[2025-04-14 13:35:57]     Skipping waddle_7329: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [340/350] Processing project: wasp-general_7341
+[2025-04-14 13:35:57]     Skipping wasp-general_7341: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [341/350] Processing project: wcraas_common_7354
+[2025-04-14 13:35:57]     Skipping wcraas_common_7354: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [342/350] Processing project: wellpathpy_7379
+[2025-04-14 13:35:57]     Skipping wellpathpy_7379: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [343/350] Processing project: wnget_7429
+[2025-04-14 13:35:57]     Skipping wnget_7429: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [344/350] Processing project: woodpecker_7432
+[2025-04-14 13:35:57]     Skipping woodpecker_7432: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [345/350] Processing project: words-to-regular-expression_7440
+[2025-04-14 13:35:57]     Skipping words-to-regular-expression_7440: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [346/350] Processing project: wrktoolbox_7456
+[2025-04-14 13:35:57]     Skipping wrktoolbox_7456: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [347/350] Processing project: yaml-resume_7513
+[2025-04-14 13:35:57]     Skipping yaml-resume_7513: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [348/350] Processing project: zanna_7551
+[2025-04-14 13:35:57]     Skipping zanna_7551: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [349/350] Processing project: zenoh-python_7559
+[2025-04-14 13:35:57]     Skipping zenoh-python_7559: 'Requirements' is False in CSV.
+[2025-04-14 13:35:57] --------------------------------------------------------
+[2025-04-14 13:35:57] [350/350] Processing project: zerolog_7561
+[2025-04-14 13:35:57]     Skipping zerolog_7561: 'Requirements' is False in CSV.
