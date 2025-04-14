@@ -40,7 +40,7 @@ def setup_environments(report_csv, folder):
                 venv_path = os.path.join(project_path, 'venv')
 
                 # Create virtual environment
-                result = subprocess.run([PYTHON_EXECUTABLE, '-m', 'venv', venv_path])
+                result = subprocess.run([sys.executable, '-m', 'venv', venv_path])
 
                 log(f"    → Created virtual environment: {'OK' if result.returncode == 0 else 'FAILED'}")
 
