@@ -15,69 +15,84 @@ def log(message):
         log_file.write(full_message + '\n')
 
 def setup_environments(report_csv, folder):
+    # Verifica iniziale delle cartelle
+    if not os.path.exists(folder):
+        log(f"ERRORE: Cartella principale '{folder}' non trovata")
+        return
 
-    with open(report_csv, mode='r', newline='') as file:
-        rows = list(csv.DictReader(file))
-        total = len(rows)
+    # Leggi il CSV
+    try:
+        with open(report_csv, mode='r') as file:
+            projects = list(csv.DictReader(file))
+    except Exception as e:
+        log(f"ERRORE lettura CSV: {str(e)}")
+        return
 
-    # Read CSV Report
-    with open(report_csv, mode='r', newline='') as file:
-        reader = csv.DictReader(file)
+    for idx, project in enumerate(projects, 1):
+        project_name = project['Project']
+        has_reqs = project['Requirements'].lower() == 'true'
+        project_path = os.path.join(folder, project_name)
+        
+        log("\n" + "-"*50)
+        log(f"[{idx}/{len(projects)}] Elaboro: {project_name}")
 
-        for index, row in enumerate(reader, start=1):
-            # Extract project name and requirements status
-            project = row['Project']
-            has_requirements = row['Requirements'].lower() == 'true'
+        if not has_reqs:
+            log("  Salto: requirements=False nel CSV")
+            continue
+            
+        if not os.path.exists(project_path):
+            log(f"  ATTENZIONE: Cartella progetto non trovata in {project_path}")
+            continue
 
-            project_path = os.path.join(folder, project)
-            log("--------------------------------------------------------")
-            log(f"[{index}/{total}] Processing project: {project}")
+        # Gestione ambiente virtuale
+        venv_path = os.path.join(project_path, 'venv')
+        
+        # Rimozione venv esistente
+        if os.path.exists(venv_path):
+            log("  Rimuovo ambiente virtuale esistente...")
+            try:
+                subprocess.run(['rm', '-rf', venv_path], check=True)
+            except subprocess.CalledProcessError:
+                log("  ERRORE: rimozione venv fallita")
+                continue
 
-            if has_requirements and os.path.isdir(project_path):
-                log(f"[+] Setting up environment for: {project}")
+        # Creazione nuovo venv
+        log("  Creo nuovo ambiente virtuale...")
+        try:
+            subprocess.run([sys.executable, '-m', 'venv', venv_path], check=True)
+        except subprocess.CalledProcessError:
+            log("  ERRORE: creazione venv fallita")
+            continue
 
-                # Create venv path
-                venv_path = os.path.join(project_path, 'venv')
+        # Installazione requirements
+        pip_path = os.path.join(venv_path, 'bin', 'pip')
+        
+        # Cerco file di requirements
+        req_files = [f for f in os.listdir(project_path) 
+                   if f.lower().startswith('requirements') and f.lower().endswith('.txt')]
+        
+        if not req_files:
+            log("  ATTENZIONE: Nessun file requirements*.txt trovato")
+        else:
+            for req_file in req_files:
+                req_path = os.path.join(project_path, req_file)
+                log(f"  Installo da {req_file}...")
+                try:
+                    subprocess.run([pip_path, 'install', '-r', req_path], check=True)
+                except subprocess.CalledProcessError:
+                    log(f"  ERRORE: installazione da {req_file} fallita")
 
-                if os.path.exists(venv_path):
-                    subprocess.run(['rm', '-rf', venv_path])
-
-                # Create virtual environment
-                result = subprocess.run([sys.executable, '-m', 'venv', venv_path])
-
-                log(f"    → Created virtual environment: {'OK' if result.returncode == 0 else 'FAILED'}")
-
-                # Path to pip inside venv
-                pip_path = os.path.join(venv_path, 'Scripts' if os.name == 'nt' else 'bin', 'pip')
-
-                # Find all requirement files
-                requirement_files = [
-                    os.path.join(project_path, f)
-                    for f in os.listdir(project_path)
-                    if 'requirement' in f.lower()
-                ]
-
-                if requirement_files:
-                    for req_file in requirement_files:
-                        log(f"    → Installing from {req_file}")
-                        subprocess.run([pip_path, 'install', '-r', req_file])
-                        subprocess.run([pip_path, 'install', parameters.PYNGUIN])
-                        log(f"    → Installed dependencies and Pynguin")
-                else:
-                    log(f"    No requirements file found in {project_path}, even though CSV says so.")
-            else:
-                if not has_requirements:
-                    log(f"    Skipping {project}: 'Requirements' is False in CSV.")
-                elif not os.path.isdir(project_path):
-                    log(f"    Skipping {project}: folder not found at {project_path}")
+        # Installazione Pynguin (se specificato)
+        if hasattr(parameters, 'PYNGUIN'):
+            log("  Installo Pynguin...")
+            try:
+                subprocess.run([pip_path, 'install', parameters.PYNGUIN], check=True)
+            except subprocess.CalledProcessError:
+                log("  ERRORE: installazione Pynguin fallita")
 
 if __name__ == "__main__":
-
-    projects = parameters.PROJECTS
-    report_csv = parameters.REPORT
-
-    # Reset log file
-    with open(LOG_FILE, 'w', encoding='utf-8') as f:
-        f.write("===== Environment Setup Log =====\n\n")
-
-    setup_environments(report_csv, projects)
+    # Inizializzazione log
+    with open(LOG_FILE, 'w') as f:
+        f.write("=== LOG SETUP AMBIENTI ===\n\n")
+        
+    setup_environments(parameters.REPORT, parameters.PROJECTS)
