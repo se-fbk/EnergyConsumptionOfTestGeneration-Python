@@ -39,6 +39,9 @@ def setup_environments(report_csv, folder):
                 # Create venv path
                 venv_path = os.path.join(project_path, 'venv')
 
+                if os.path.exists(venv_path):
+                    subprocess.run(['rm', '-rf', venv_path])
+
                 # Create virtual environment
                 result = subprocess.run([sys.executable, '-m', 'venv', venv_path])
 
