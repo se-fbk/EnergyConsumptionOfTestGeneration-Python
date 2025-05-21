@@ -1,8 +1,0 @@
-===== Environment Setup Log =====
-
-[2025-04-14 14:09:13] --------------------------------------------------------
-[2025-04-14 14:09:13] [1/350] Processing project: ATtila_15
-[2025-04-14 14:09:13]     Skipping ATtila_15: folder not found at ./Python_projects_flaky/ATtila_15
-[2025-04-14 14:09:13] --------------------------------------------------------
-[2025-04-14 14:09:13] [2/350] Processing project: AlexBerUtils_21
-[2025-04-14 14:09:13] [+] Setting up environment for: AlexBerUtils_21
